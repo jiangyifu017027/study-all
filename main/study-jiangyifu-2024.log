@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.27)  10 JUN 2024 21:18
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.27)  11 JUN 2024 22:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -841,17 +841,17 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [48
 
 ] [49] [50] [51]
-Overfull \hbox (42.0044pt too wide) in paragraph at lines 1550--1551
+Overfull \hbox (42.0044pt too wide) in paragraph at lines 1551--1552
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (34.80432pt too wide) in paragraph at lines 1554--1555
+Overfull \hbox (34.80432pt too wide) in paragraph at lines 1555--1556
 [][][][][][][][][][][][][][][][][][][][][] 
  []
 
 [52]
-Overfull \hbox (42.0044pt too wide) in paragraph at lines 1616--1617
+Overfull \hbox (42.0044pt too wide) in paragraph at lines 1617--1618
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
@@ -859,17 +859,17 @@ Overfull \hbox (42.0044pt too wide) in paragraph at lines 1616--1617
 File: images3.png Graphic file (type bmp)
 <images3.png>
  [56]
-Overfull \hbox (6.00403pt too wide) in paragraph at lines 1744--1745
+Overfull \hbox (6.00403pt too wide) in paragraph at lines 1745--1746
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (20.40417pt too wide) in paragraph at lines 1746--1747
+Overfull \hbox (20.40417pt too wide) in paragraph at lines 1747--1748
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (6.00403pt too wide) in paragraph at lines 1756--1757
+Overfull \hbox (6.00403pt too wide) in paragraph at lines 1757--1758
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
@@ -886,13 +886,13 @@ File: images4.png Graphic file (type bmp)
 
 ] (./study-jiangyifu-2024.aux)
 Package rerunfilecheck Info: File `study-jiangyifu-2024.out' has not changed.
-(rerunfilecheck)             Checksum: FA8E9DEBD67EDC9A51CA64542B04A057;10441.
+(rerunfilecheck)             Checksum: 3EB8A399BED8A1ABF660654004801E5A;10589.
  ) 
 Here is how much of TeX's memory you used:
- 18523 strings out of 476683
- 402747 string characters out of 5807574
+ 18524 strings out of 476683
+ 402758 string characters out of 5807574
  1886012 words of memory out of 5000000
- 38445 multiletter control sequences out of 15000+600000
+ 38446 multiletter control sequences out of 15000+600000
  529147 words of font info for 121 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,8n,97p,588b,1712s stack positions out of 10000i,1000n,20000p,200000b,200000s

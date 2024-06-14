@@ -59,6 +59,7 @@
 \contentsline {section}{\numberline {8.4}Support vector machines}{41}{section.8.4}%
 \contentsline {section}{\numberline {8.5}Kernel methods}{44}{section.8.5}%
 \contentsline {chapter}{\numberline {第九章\hspace {.3em}}Foundations of Data Science}{47}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Reservoir Sampling}{47}{section.9.1}%
 \contentsline {chapter}{\numberline {第十章\hspace {.3em}}CS106L}{48}{chapter.10}%
 \contentsline {section}{\numberline {10.1}Types and Structs}{48}{section.10.1}%
 \contentsline {subsection}{\numberline {10.1.1}Function overloading}{49}{subsection.10.1.1}%
